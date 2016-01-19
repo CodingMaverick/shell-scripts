@@ -1,2 +1,2 @@
 # shell-scripts
-Useful shell scripts &amp; reminders
+A collection of useful shell scripts &amp; reminders for those who have fish memory, just like myself
